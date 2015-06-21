@@ -45,3 +45,14 @@ end
 
 # Use twiter-bootstrap-rails by seyhunak
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
+
+# Use font-awesome-rails for symbols
+gem 'font-awesome-rails'
+
+
+
+
+
+
+
+
