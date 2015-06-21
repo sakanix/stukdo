@@ -46,8 +46,11 @@ end
 # Use twiter-bootstrap-rails by seyhunak
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 
-# Use font-awesome-rails for symbols
+# Use font-awesome-rails for symbols by bokmann on githun
 gem 'font-awesome-rails'
+
+# Use simple form by Plataformatec on github
+gem 'simple_form'
 
 
 
