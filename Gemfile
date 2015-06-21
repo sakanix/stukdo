@@ -52,6 +52,10 @@ gem 'font-awesome-rails'
 # Use simple form by Plataformatec on github
 gem 'simple_form'
 
+# Use devise by Plataformatec on github
+# It works with simple form, providing authentication for users signin or sign up
+gem 'devise'
+
 
 
 
